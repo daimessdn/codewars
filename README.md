@@ -1,6 +1,8 @@
 # codewars
 
-List of codewars cases [I](https://www.codewars.com/users/daimessdn)'ve completed
+List of codewars cases I've completed
+
+![codewars profile](https://www.codewars.com/users/daimessdn/badges/large)
 
 | Problems                                                                                | Kyu | Python                                | JavaScript                                |
 | --------------------------------------------------------------------------------------- | --- | ------------------------------------- | ----------------------------------------- |
